@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=cdong1012)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Juman8/juman8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
